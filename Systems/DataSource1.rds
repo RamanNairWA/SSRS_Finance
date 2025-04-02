@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SHAREPOINTLIST</Extension>
+    <ConnectString>https://intranet.wadams.com.au/sites/dc</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>2723693d-4a5c-4e14-a614-ea343d1d1df1</DataSourceID>
+</RptDataSource>

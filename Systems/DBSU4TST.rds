@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DBSU4TST">
+  <ConnectionProperties>
+    <Extension>OLEDB</Extension>
+    <ConnectString>Provider=IBMDA400.DataSource.1;Data Source=DBSU4TST;Initial Catalog=DBSU4TST</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>a60fd3de-f28f-43bf-9ac5-4049cf52bf45</DataSourceID>
+</RptDataSource>

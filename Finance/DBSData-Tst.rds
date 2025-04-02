@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DBSData-Tst">
+  <ConnectionProperties>
+    <Extension>OLEDB</Extension>
+    <ConnectString>Provider=IBMDA400.DataSource.1;Data Source=DBSTST;Initial Catalog=DBSTST;Default Collection=LPUSR430;Catalog Library List="LIBT01, LIBT01H, LIBDLRT01, LPUSR430"</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>a4a52409-216a-4fcb-82fd-f62dec4e2445</DataSourceID>
+</RptDataSource>

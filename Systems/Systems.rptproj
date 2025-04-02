@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ToolsVersion="2.0">
+  <State>$base64$PFNvdXJjZUNvbnRyb2xJbmZvIHhtbG5zOnhzZD0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zOmRkbDI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yIiB4bWxuczpkZGwyXzI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yLzIiIHhtbG5zOmRkbDEwMF8xMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDA4L2VuZ2luZS8xMDAvMTAwIiB4bWxuczpkZGwyMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAiIHhtbG5zOmRkbDIwMF8yMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAvMjAwIiB4bWxuczpkd2Q9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRGF0YVdhcmVob3VzZS9EZXNpZ25lci8xLjAiPg0KICA8RW5hYmxlZD5mYWxzZTwvRW5hYmxlZD4NCiAgPFByb2plY3ROYW1lPjwvUHJvamVjdE5hbWU+DQogIDxBdXhQYXRoPjwvQXV4UGF0aD4NCiAgPExvY2FsUGF0aD48L0xvY2FsUGF0aD4NCiAgPFByb3ZpZGVyPjwvUHJvdmlkZXI+DQo8L1NvdXJjZUNvbnRyb2xJbmZvPg==</State>
+  <DataSources>
+    <ProjectItem>
+      <Name>DataMart.rds</Name>
+      <FullPath>DataMart.rds</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DataSource1.rds</Name>
+      <FullPath>DataSource1.rds</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DateData.rds</Name>
+      <FullPath>DateData.rds</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DBSU4PRD.rds</Name>
+      <FullPath>DBSU4PRD.rds</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DBSU4TST.rds</Name>
+      <FullPath>DBSU4TST.rds</FullPath>
+    </ProjectItem>
+  </DataSources>
+  <DataSets />
+  <Reports>
+    <ProjectItem>
+      <Name>ABN Exposure Report.rdl</Name>
+      <FullPath>ABN Exposure Report.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Battery Warranty.rdl</Name>
+      <FullPath>Battery Warranty.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Boomi Locket Intergration Test only.rdl</Name>
+      <FullPath>Boomi Locket Intergration Test only.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Customers with no AA Influencer.rdl</Name>
+      <FullPath>Customers with no AA Influencer.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Daily New Customer Extract.rdl</Name>
+      <FullPath>Daily New Customer Extract.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DBS Labour Sell Rate Table.rdl</Name>
+      <FullPath>DBS Labour Sell Rate Table.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DBS Misc. Sell Rate Table.rdl</Name>
+      <FullPath>DBS Misc. Sell Rate Table.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DBS Parts Sell Rate Table.rdl</Name>
+      <FullPath>DBS Parts Sell Rate Table.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Invoices paid from SecurePay-Jonathan.rdl</Name>
+      <FullPath>Invoices paid from SecurePay-Jonathan.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>New Cores Sold - Credit Details.rdl</Name>
+      <FullPath>New Cores Sold - Credit Details.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>New Cores Sold For Selected Date Range.rdl</Name>
+      <FullPath>New Cores Sold For Selected Date Range.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Sharepoint List.rdl</Name>
+      <FullPath>Sharepoint List.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SWIP Labour Detail.rdl</Name>
+      <FullPath>SWIP Labour Detail.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SWIP Misc Detail.rdl</Name>
+      <FullPath>SWIP Misc Detail.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SWIP Parts Detail.rdl</Name>
+      <FullPath>SWIP Parts Detail.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Used Cores Sold - Credit Details.rdl</Name>
+      <FullPath>Used Cores Sold - Credit Details.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Used Cores Sold For Selected Date Range.rdl</Name>
+      <FullPath>Used Cores Sold For Selected Date Range.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Work Order Miscellaneous Charges.rdl</Name>
+      <FullPath>Work Order Miscellaneous Charges.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Invoices paid from SecurePay.rdl</Name>
+      <FullPath>Invoices paid from SecurePay.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Invoices paid from SecurePay V2.rdl</Name>
+      <FullPath>Invoices paid from SecurePay V2.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Copy of Copy (2) of Invoices paid from SecurePay.rdl</Name>
+      <FullPath>Copy of Copy (2) of Invoices paid from SecurePay.rdl</FullPath>
+    </ProjectItem>
+  </Reports>
+  <Configurations>
+    <Configuration>
+      <Name>Debug</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Debug</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetFolder>Systems</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>DebugLocal</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\DebugLocal</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetServerURL>http://sqlreports-prd.wadams.com.au/Reportserver</TargetServerURL>
+        <TargetFolder>Finance/Systems</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>Release</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Release</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetFolder>Systems</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+  </Configurations>
+</Project>
